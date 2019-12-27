@@ -35,8 +35,7 @@ public class P4 extends P3 {
      * @param p3 Objeto de tipo P3
      * @param w Cordenada W
      */
-    public P4(P2 p2,P3 p2,int w){
-        super(p2);
+    public P4(P2 p2,P3 p3,int w){
         super(p3);
         this.w = w;
     }
