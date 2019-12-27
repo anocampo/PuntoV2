@@ -1,7 +1,7 @@
 package io.ocampo.andres.figura;
 import io.ocampo.andres.puntos.P3;
 /**
- * Crea un objeto de tipo cubo
+ * Crea un objeto de tipo cubo,
  * @author Andrés Ocampo
  */
 public class Cubo {
