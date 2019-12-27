@@ -1,4 +1,4 @@
-package chuidiang.ejemplos;
+package io.ocampo.andres;
 
 /**
  * Hello world!

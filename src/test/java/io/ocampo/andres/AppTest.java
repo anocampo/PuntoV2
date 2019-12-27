@@ -1,4 +1,4 @@
-package chuidiang.ejemplos;
+package io.ocampo.andres;
 
 import static org.junit.Assert.assertTrue;
 
