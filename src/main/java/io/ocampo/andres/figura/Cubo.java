@@ -1,6 +1,5 @@
 package io.ocampo.andres.figura;
-import puntos.P3;
-
+import io.ocampo.andres.puntos.P3;
 /**
  * Crea un objeto de tipo cubo
  * @author Andrés Ocampo
